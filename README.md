@@ -40,7 +40,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/768px-Android_Studio_icon_%282023%29.svg.png" width="16" height="16"> Android Studio | <img src="https://images.icon-icons.com/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" width="16" height="16"> Charles |
 <img src="https://static-00.iconduck.com/assets.00/chrome-devtools-icon-1024x1024-bgoqb03p.png" width="16" height="16"> DevTools |
  <img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" width="16" height="16"> SQL | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="16" height="16"> Figma |
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cygwin_logo.svg/2048px-Cygwin_logo.svg.png" width="16" height="16"> Cygwin |
 
 
 ## 📊 Результаты тестирования
-- [Чек-листы, тест-кейсы и баг-репорты](https://docs.google.com/spreadsheets/d/1XvE4-vEOHnF_dGBb7mOGcGQTUE8E15-fZOd9rdydaKI/edit?usp=sharing)  
+- [Чек-листы, тест-кейсы и баг-репорты](https://docs.google.com/spreadsheets/d/1_U05VxjKFlyPcXennlhQ4dy6JmbSpyu9xI0JVVZlbdo/edit?usp=sharing)  
